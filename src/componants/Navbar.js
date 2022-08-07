@@ -4,8 +4,7 @@ export default function Navbar(props) {
   return (
     <div>
       <div
-      
-        className= " rounded-0 border-0 btn-group  d-flex justify-content-center"
+        className=" rounded-0 border-0 btn-group  d-flex justify-content-center"
         role="group"
         aria-label="Basic example"
       >

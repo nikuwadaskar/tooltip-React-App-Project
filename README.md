@@ -1,3 +1,16 @@
+# A simple Tooltip using reactJS
+
+A simple tooltip component such that when I hover over a button it shows me a tooltip.
+
+- Create a simple tooltip component
+  On hovering of the button I should show a tooltip.
+- The component will receive the ‘position‘ of tooltip as prop.
+- We can pass options : “top”, “bottom”, “right”, “left”.
+  According to the position the tooltip should render at that position.
+
+# Screenshots
+![one](./src/componants/one.jpg)
+![two](./src/componants/two.jpg)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
