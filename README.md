@@ -8,6 +8,10 @@ A simple tooltip component such that when I hover over a button it shows me a to
 - We can pass options : “top”, “bottom”, “right”, “left”.
   According to the position the tooltip should render at that position.
 
+# Demo-Link
+
+`<link>`: [Tooltip-project](https://tooltip-react-project.netlify.app/)
+
 # Screenshots
 ![one](./src/componants/one.jpg)
 ![two](./src/componants/two.jpg)
